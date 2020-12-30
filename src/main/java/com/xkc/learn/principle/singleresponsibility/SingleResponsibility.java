@@ -1,9 +1,9 @@
-package com.xkc.learn.principle;
+package com.xkc.learn.principle.singleresponsibility;
 
 import lombok.Data;
 
 /**
- * 单一职责原则
+ * 单一职责原则：一个类或方法单一功能
  */
 @Data
 public class SingleResponsibility {
